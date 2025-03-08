@@ -97,7 +97,7 @@ function generateAuthID(studentCode, email) {
     }
     finalNumber+=value
    }
-   return finalNumber
+   return finalNumber //1928281188222828
 }
  
 let studentCode = "fs39330_930";
